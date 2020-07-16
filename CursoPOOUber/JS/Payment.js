@@ -5,7 +5,3 @@ class Payment {
   }
 
 }
-
-function Payment(){
-  this.id;
-}
